@@ -2,7 +2,7 @@
 title: Instalación de parches comunitarios
 description: Tutorial para la instalación de parches comunitarios
 published: true
-date: 2025-11-24T21:06:14.554Z
+date: 2025-11-24T21:09:13.191Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T21:06:14.554Z
@@ -13,18 +13,17 @@ dateCreated: 2025-11-24T21:06:14.554Z
 > ¡No intentes utilizar el parcheador automático en una versión de Firmware diferente a las esperadas, tu impresora puede convertirse en un ladrillo y entonces tendrás que volver a instalar el sistema base!
 {.is-warning}
 
+* Versiones actualmente soportadas:
+  * [V1.00.12.0](https://wiki.artillery3d.com/m1/manual/m1-firmware-release-history#v1001200-20251104)
+  * [V1.00.11.0](https://wiki.artillery3d.com/m1/manual/m1-firmware-release-history#v1001100-20250829)
+  
+
 # Videotutorial
 
 https://odysee.com/$/embed/@ArtilleryM1ProCommunity:6/printer-patcher-guide:f
 
 # Tutorial
 
-## Verificamos la versión Firmware de Nuestra impresora
-
-* Versiones actualmente soportadas:
-  * [V1.00.12.0](https://wiki.artillery3d.com/m1/manual/m1-firmware-release-history#v1001200-20251104)
-  * [V1.00.11.0](https://wiki.artillery3d.com/m1/manual/m1-firmware-release-history#v1001100-20250829)
-  
 ## Dirección IP
 
 * Nuestra impresora debe de estar en la misma red que el ordenador/dispositivo Android que utilizaremos.
