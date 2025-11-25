@@ -2,17 +2,18 @@
 title: Instalación de Perfiles Comunitarios
 description: Tutorial para la instalación de perfiles comunitarios
 published: true
-date: 2025-11-25T14:26:22.756Z
+date: 2025-11-25T14:27:46.970Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T22:26:26.154Z
 ---
 
-* [Perfiles comunitarios](https://github.com/pijalu/artillery-m1-orca)
+# Antes de comezar
 
 > No intentes utilizar estos perfiles comunitarios sin haber modificado el Firmware de la impresora antes. Pasa primero por la [guía de instalación de parches comunitarios](/es/guides/community-fixes)
 {.is-danger}
 
+* [GitHub con perfiles comunitarios](https://github.com/pijalu/artillery-m1-orca)
 
 # Videotutorial
 
