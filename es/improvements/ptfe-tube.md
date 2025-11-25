@@ -2,7 +2,7 @@
 title: Tubo PFTE
 description: Mejoras con el Tubo PTFE
 published: true
-date: 2025-11-25T23:39:25.211Z
+date: 2025-11-25T23:51:31.014Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-25T23:33:18.450Z
@@ -12,7 +12,7 @@ dateCreated: 2025-11-25T23:33:18.450Z
 
 ## Modificaciones sobre el tubo PTFE original
 
-- **Elimina la brida cercana al extrusor y mueve el clip más atrás.** El tubo PTFE tiene un ángulo de entrada bastante violento al extrusor, y a menudo esto va a dar problemas de atascos. Al eliminar la brida y atrasar el clip podremos mejorar el ángulo de entrada.
+- **Elimina la brida cercana al extrusor y mueve el clip más atrás.** El tubo PTFE tiene un ángulo de entrada bastante violento al extrusor, y a menudo esto va a dar problemas de atascos. Al eliminar la brida y atrasar el clip podremos mejorar el ángulo de entrada.[^1]
 
 
 ---
@@ -35,4 +35,7 @@ dateCreated: 2025-11-25T23:33:18.450Z
   - [Tubo de repuesto suministrado por Artillery](https://artillery3d.com/products/ptfe-tube-m1).
   - [Tubo de repuesto Capricorn](https://www.captubes.com/shop/#!/Filament-Guide/c/173671010) (diámetro interno 3, diámetro externo 4). Los mejores PTFE del mercado.
   - [Tubo de repuesto Mellow](https://aliexpress.com/item/1005008268651680.html) (diámetro interno 3, diámetro externo 4). Buena calidad contrastada.
-  - [Tubo de repuesto Mellow baja fricción estrellado](https://aliexpress.com/item/1005010202912335.html) (diámetro interno 2.2, diámetro externo 4). Aunque tiene diámetro interno específico de sistema Bowden su diseño estrellado proporciona menos fricción, en cualquier caso **no parece recomendable para utilizar con TPU o materiales abrasivos** (el diseño estrellado puede acabar causando más fricción que un diseño convencional con este tipo de filamentos).
+  - [Tubo de repuesto Mellow baja fricción estrellado](https://aliexpress.com/item/1005010202912335.html) (diámetro interno 2.2, diámetro externo 4). Aunque tiene diámetro interno específico de sistema Bowden su diseño estrellado proporciona menos fricción, en cualquier caso **no parece recomendable para utilizar con TPU o materiales abrasivos** (el diseño estrellado puede acabar causando más fricción que un diseño convencional con este tipo de filamentos)[^2].
+  
+[^1]:https://dyzedesign.com/2023/01/the-adverse-effects-of-ptfe-restrictions
+[^2]:https://forum.bambulab.com/t/star-shaped-ptfe-tube/190829
