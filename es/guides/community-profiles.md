@@ -2,7 +2,7 @@
 title: Instalación de Perfiles Comunitarios
 description: Tutorial para la instalación de perfiles comunitarios
 published: true
-date: 2025-11-25T14:24:35.383Z
+date: 2025-11-25T14:25:56.508Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T22:26:26.154Z
@@ -18,7 +18,7 @@ dateCreated: 2025-11-24T22:26:26.154Z
 
 ## OrcaSlicer (Recomendado)
 
-https://odysee.com/%24/embed/%40ArtilleryM1ProCommunity%3A6%2Fcommunity-profiles-Guide%3A6
+https://odysee.com/$/embed/@ArtilleryM1ProCommunity:6/community-profiles-Guide:f
 
 # Tutorial
 
