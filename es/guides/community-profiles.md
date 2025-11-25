@@ -2,17 +2,23 @@
 title: Instalación de Perfiles Comunitarios
 description: Tutorial para la instalación de perfiles comunitarios
 published: true
-date: 2025-11-24T22:26:26.154Z
+date: 2025-11-25T14:24:35.383Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T22:26:26.154Z
 ---
 
+* [Perfiles comunitarios](https://github.com/pijalu/artillery-m1-orca)
+
+> No intentes utilizar estos perfiles comunitarios sin haber modificado el Firmware de la impresora antes. Pasa primero por la [guía de instalación de parches comunitarios](/es/guides/community-fixes)
+{.is-danger}
+
+
 # Videotutorial
 
 ## OrcaSlicer (Recomendado)
 
-## Artillery Studio (No recomendado)
+https://odysee.com/%24/embed/%40ArtilleryM1ProCommunity%3A6%2Fcommunity-profiles-Guide%3A6
 
 # Tutorial
 
@@ -29,7 +35,7 @@ dateCreated: 2025-11-24T22:26:26.154Z
 
 ## Artillery Studio (No recomendado)
 
-> Artillery Studio no es compatible directamente con los perfiles comunitarios, y dado que se basa en OrcaSlicer es mejor utilizar OrcaSlicer directamente.
+> Artillery Studio no es compatible directamente con los perfiles comunitarios, y dado que se basa en OrcaSlicer es mejor utilizar OrcaSlicer directamente. Además perdemos la posibilidad de visualizar Fluidd/Mainsail desde el panel de dispositivo (aunque siempre podemos acceder desde un navegador).
 {.is-warning}
 
 * Descargamos los perfiles comunitarios de [GitHub](https://github.com/pijalu/artillery-m1-orca/releases).
