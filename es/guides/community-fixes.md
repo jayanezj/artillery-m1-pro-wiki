@@ -2,7 +2,7 @@
 title: Instalación de parches comunitarios
 description: Tutorial para la instalación de parches comunitarios
 published: true
-date: 2025-11-24T21:09:13.191Z
+date: 2025-11-24T21:09:15.839Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T21:06:14.554Z

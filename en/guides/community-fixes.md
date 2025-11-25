@@ -2,7 +2,7 @@
 title: Setting up community fixes
 description: Tutorial for installing community fixes
 published: true
-date: 2025-11-24T21:14:31.978Z
+date: 2025-11-24T21:14:35.884Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T21:14:31.978Z
