@@ -2,7 +2,7 @@
 title: Tubo PFTE
 description: Mejoras con el Tubo PTFE
 published: true
-date: 2025-11-25T23:35:43.596Z
+date: 2025-11-25T23:38:39.104Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-25T23:33:18.450Z
@@ -19,7 +19,7 @@ dateCreated: 2025-11-25T23:33:18.450Z
 
 | Estado Original | Modificado |
 |-----------|-----------|
-| [![original-ptfe-tube.webp](/media/images/original-ptfe-tube.webp  =300x){.align-center}](/media/images/original-ptfe-tube.webp)   | [![released-ptfe-tube.webp](/media/images/released-ptfe-tube.webp =300x){.align-center}](/media/images/released-ptfe-tube.webp)   |
+| <a href="/media/images/original-ptfe-tube.webp" target="_blank">![original-ptfe-tube.webp](/media/images/original-ptfe-tube.webp  =300x){.align-center}</a>   | [![released-ptfe-tube.webp](/media/images/released-ptfe-tube.webp =300x){.align-center}](/media/images/released-ptfe-tube.webp)   |
 
 ---
 
