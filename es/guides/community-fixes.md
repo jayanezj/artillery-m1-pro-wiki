@@ -2,7 +2,7 @@
 title: Instalación de parches comunitarios
 description: Tutorial para la instalación de parches comunitarios
 published: true
-date: 2025-11-26T19:13:51.242Z
+date: 2025-11-26T19:15:41.897Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T21:06:14.554Z
@@ -19,11 +19,11 @@ dateCreated: 2025-11-24T21:06:14.554Z
   * [V1.00.11.0](https://wiki.artillery3d.com/m1/manual/m1-firmware-release-history#v1001100-20250829)
   
 
-# Videotutorial
+# Vídeo guía
 
 https://odysee.com/$/embed/@ArtilleryM1ProCommunity:6/printer-patcher-guide:f
 
-# Tutorial
+# Guía
 
 ## Dirección IP
 
