@@ -2,7 +2,7 @@
 title: Tubo PFTE
 description: Mejoras con el Tubo PTFE
 published: true
-date: 2025-11-26T14:22:44.957Z
+date: 2025-11-26T14:23:46.922Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-25T23:33:18.450Z
@@ -14,20 +14,26 @@ dateCreated: 2025-11-25T23:33:18.450Z
 
 **Elimina la brida cercana al extrusor y mueve el clip más atrás.** El tubo PTFE tiene un ángulo de entrada bastante violento al extrusor, y a menudo esto va a dar problemas de atascos. Al eliminar la brida y atrasar el clip podremos mejorar el ángulo de entrada.[^1]
 
-
+<center>
+  
 | Estado Original | Modificado |
 |-----------|-----------|
 | <a href="/media/images/original-ptfe-tube.webp" target="_blank">![original-ptfe-tube.webp](/media/images/original-ptfe-tube.webp  =300x){.align-center}</a>   | <a href="/media/images/released-ptfe-tube.webp" target="_blank">![released-ptfe-tube.webp](/media/images/released-ptfe-tube.webp =300x){.align-center}</a>  |
 
+</center>
 ---
 
 ## Modificaciones en el chasis superior
 
-**Quita el cierre de vidrio superior o añade un riser.** Al mejorar el ángulo de entrada del tubo PTFE es probable que choque con el vidrio, lo que a la larga será un problema porque el tubo se desgastará. 
+**Quita el cierre de vidrio superior o añade un riser.** Al mejorar el ángulo de entrada del tubo PTFE es probable que choque con el vidrio, lo que a la larga será un problema porque el tubo se desgastará.
 
+<center>
+  
 | | |
 |-----------|-----------|
 | <a href="/media/images/ptfe-wear-1.webp" target="_blank">![ptfe-wear-1.webp](/media/images/ptfe-wear-1.webp  =300x){.align-center}</a>   | <a href="/media/images/ptfe-wear-2.webp" target="_blank">![ptfe-wear-2.webp](/media/images/ptfe-wear-2.webp =300x){.align-center}</a>  |
+
+</center>
 
 ---
 
