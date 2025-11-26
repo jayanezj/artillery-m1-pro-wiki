@@ -2,7 +2,7 @@
 title: Cambio de tubo PTFE
 description: Guía para la sustitución del tubo PTFE
 published: true
-date: 2025-11-26T13:37:30.907Z
+date: 2025-11-26T13:38:16.232Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-26T13:37:30.907Z
@@ -80,7 +80,7 @@ Este tubo sirve para guiar el filamento desde la bobina hasta el extrusor.
   
 ## Vídeo guía
 
-https://odysee.com/$/embed/@ArtilleryM1ProCommunity:6/change_ptfe_tube_guide:f
+https://odysee.com/$/embed/@ArtilleryM1ProCommunity:6/change_ptfe_tube_guide:e
 
 ## Guía
 
