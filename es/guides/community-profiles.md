@@ -1,8 +1,8 @@
 ---
 title: Instalación de Perfiles Comunitarios
-description: Tutorial para la instalación de perfiles comunitarios
+description: Guía para la instalación de perfiles comunitarios
 published: true
-date: 2025-11-25T14:27:49.377Z
+date: 2025-11-26T19:17:08.087Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T22:26:26.154Z
@@ -15,13 +15,13 @@ dateCreated: 2025-11-24T22:26:26.154Z
 
 * [GitHub con perfiles comunitarios](https://github.com/pijalu/artillery-m1-orca)
 
-# Videotutorial
+# Vídeo guia
 
 ## OrcaSlicer (Recomendado)
 
 https://odysee.com/$/embed/@ArtilleryM1ProCommunity:6/community-profiles-Guide:6
 
-# Tutorial
+# Guía
 
 ## OrcaSlicer (Recomendado)
 
@@ -48,3 +48,4 @@ https://odysee.com/$/embed/@ArtilleryM1ProCommunity:6/community-profiles-Guide:6
 * Vamos a la pestaña ``G-Code de la máquina`` y sustituimos el contenido de ``G-Code de inicio`` por el código del ``.json`` anterior.
 
 
+> Créditos a [@pijalu](https://github.com/pijalu) por desarrollar la herramienta para parchear la impresora, así como los perfiles comunitarios y las modificaciones firmware.
