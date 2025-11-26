@@ -2,7 +2,7 @@
 title: Instalación de parches comunitarios
 description: Tutorial para la instalación de parches comunitarios
 published: true
-date: 2025-11-24T21:09:15.839Z
+date: 2025-11-26T19:13:51.242Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T21:06:14.554Z
@@ -11,7 +11,8 @@ dateCreated: 2025-11-24T21:06:14.554Z
 # Antes de comenzar
 
 > ¡No intentes utilizar el parcheador automático en una versión de Firmware diferente a las esperadas, tu impresora puede convertirse en un ladrillo y entonces tendrás que volver a instalar el sistema base!
-{.is-warning}
+{.is-danger}
+
 
 * Versiones actualmente soportadas:
   * [V1.00.12.0](https://wiki.artillery3d.com/m1/manual/m1-firmware-release-history#v1001200-20251104)
@@ -49,8 +50,10 @@ Desde el Printer Patcher podremos:
 > Cuando instalemos los parches de la comunidad, aunque la instalación desde Printer Patcher se complete, la impresora estará instalado actualizaciones de Moonraker durante al menos 10 minutos más. **No debemos desconectar la impresora** para que la actualización se complete correctamente.
 {.is-warning}
 
-> Al terminar completamente la instalación de paquetes podremos ver nuestra impresora con Fluidd funcionando en: ``http://direccion_impresora:8078``
+> Al terminar completamente la instalación de paquetes podremos ver nuestra impresora con Fluidd funcionando en <kbd>http://direccion_impresora:8078</kbd>
+> 
+> También puedes ver Mainsail en <kbd>http://direccion_impresora</kbd>
 {.is-success}
 
-
+> Créditos a [@pijalu](https://github.com/pijalu) por desarrollar la herramienta para parchear la impresora, así como los perfiles comunitarios y las modificaciones firmware.
 
