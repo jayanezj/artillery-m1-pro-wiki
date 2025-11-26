@@ -2,7 +2,7 @@
 title: Instalación de parches comunitarios
 description: Guía para la instalación de parches comunitarios
 published: true
-date: 2025-11-26T19:15:55.503Z
+date: 2025-11-26T19:22:15.694Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T21:06:14.554Z
@@ -13,6 +13,8 @@ dateCreated: 2025-11-24T21:06:14.554Z
 > ¡No intentes utilizar el parcheador automático en una versión de Firmware diferente a las esperadas, tu impresora puede convertirse en un ladrillo y entonces tendrás que volver a instalar el sistema base!
 {.is-danger}
 
+> Modificar el firmware de la impresora anulará la garantía y puede causar potenciales problemas, lee la información proporcionada en el parcheador antes de comenzar.
+{.is-danger}
 
 * Versiones actualmente soportadas:
   * [V1.00.12.0](https://wiki.artillery3d.com/m1/manual/m1-firmware-release-history#v1001200-20251104)
