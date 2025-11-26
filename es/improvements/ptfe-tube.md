@@ -2,7 +2,7 @@
 title: Tubo PFTE
 description: Mejoras con el Tubo PTFE
 published: true
-date: 2025-11-26T14:21:42.102Z
+date: 2025-11-26T14:22:44.957Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-25T23:33:18.450Z
@@ -25,7 +25,7 @@ dateCreated: 2025-11-25T23:33:18.450Z
 
 **Quita el cierre de vidrio superior o añade un riser.** Al mejorar el ángulo de entrada del tubo PTFE es probable que choque con el vidrio, lo que a la larga será un problema porque el tubo se desgastará. 
 
-
+| | |
 |-----------|-----------|
 | <a href="/media/images/ptfe-wear-1.webp" target="_blank">![ptfe-wear-1.webp](/media/images/ptfe-wear-1.webp  =300x){.align-center}</a>   | <a href="/media/images/ptfe-wear-2.webp" target="_blank">![ptfe-wear-2.webp](/media/images/ptfe-wear-2.webp =300x){.align-center}</a>  |
 
