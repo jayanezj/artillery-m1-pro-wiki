@@ -2,10 +2,10 @@
 title: Timelapses
 description: Guía para configurar nuestros Timelapses
 published: true
-date: 2025-12-05T18:38:16.232Z
+date: 2025-12-05T20:04:56.151Z
 tags: 
 editor: markdown
-dateCreated: 2025-12-05T18:38:16.232Z
+dateCreated: 2025-12-05T19:50:40.491Z
 ---
 
 # 📸 ¿Qué es un *Timelapse* en Impresión 3D?
@@ -46,7 +46,7 @@ Este método genera los famosos *“timelapses sin cabezal”*, donde parece que
 
 ## Ejemplos de Timelapse
 
-<table>
+<table width="100%">
   <thead>
     <th>Ajustes utilizados</th>
     <th>Timelapse</th>
@@ -54,24 +54,28 @@ Este método genera los famosos *“timelapses sin cabezal”*, donde parece que
   </thead>
   <tr>
     <td>
-      - Mode: Layer Macro
-      - Park Head: Activado
-      - Park Time: 100ms
-      - Park Travel Speed: 400mm/s
-      - Park Position: Back Left
-      - Park Position Z-Hop: 0.2 mm
-      - Use Firmware retraction: Desactivado
-      - Park Retraction Distance: 1mm
-      - Park Retraction Speed: 15mm/s
-      - Park Extrude Distance: 1mm
-      - Park Extrude Speed: 15mm/s
-      - Delay Compensation: 50ms
+      <ul>
+        <li>Mode: Layer Macro</li>
+        <li>Park Head: Activado</li>
+        <li>Park Time: 100ms</li>
+        <li>Park Travel Speed: 400mm/s</li>
+        <li>Park Position: Back Left</li>
+        <li>Park Position Z-Hop: 0.2 mm</li>
+        <li>Use Firmware retraction: Desactivado</li>
+        <li>Park Retraction Distance: 1mm</li>
+        <li>Park Retraction Speed: 15mm/s</li>
+        <li>Park Extrude Distance: 1mm</li>
+        <li>Park Extrude Speed: 15mm/s</li>
+        <li>Delay Compensation: 50ms</li>
+      </ul>
     </td>
     <td>
-      <video width="320" height="240" autoplay muted>
-        <source src="/media/video/timelapse-layer.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <center>
+        <video width="320" height="240" autoplay loop muted>
+          <source src="/media/video/timelapse-layer.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </center>
     </td>
     <td>
       4 horas 59 minutos.
@@ -79,16 +83,20 @@ Este método genera los famosos *“timelapses sin cabezal”*, donde parece que
   </tr>
   <tr>
     <td>
-      - Mode: Hyperlapse
-      - Hyperlapse Cycle: 90s
-      - Park Head: Desactivado
-      - Delay Compensation: 50ms
+      <ul>
+        <li>Mode: Hyperlapse</li>
+        <li>Hyperlapse Cycle: 90s</li>
+        <li>Park Head: Desactivado</li>
+        <li>Delay Compensation: 50ms</li>
+      </ul>
     </td>
     <td>
-      <video width="320" height="240" autoplay muted>
-        <source src="/media/video/timelapse-hyperlapse.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <center>
+        <video width="320" height="240" autoplay loop muted>
+          <source src="/media/video/timelapse-hyperlapse.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </center>
     </td>
     <td>
       4 horas 51 minutos.
@@ -97,6 +105,12 @@ Este método genera los famosos *“timelapses sin cabezal”*, donde parece que
 </table>
 
 > Puedes configurar la ruta en la que se almacenarán los Timelapses en Fluidd editando el fichero ``moonraker.conf``. Por ejemplo, si quieres que se guarden dentro de ``timelapse`` en la tarjeta Micro SD:
-> ```[timelapse]
-> output_path: /home/mks/printer_data/gcodes/sda1/timelapse```
+>
+> ```
+> [timelapse]
+> output_path: /home/mks/printer_data/gcodes/sda1/timelapse
+> ```
+
+> Con el Firmware comunitario, si lo deseamos, también podemos hacer que el Hyperlase aparque el extrusor en una esquina para tomar las capturas, lo que puede ser interesante en algunas impresiones en las que queramos jugar con los tiempos de captura para tener varios frames por capa.
 {.is-info}
+
