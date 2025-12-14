@@ -2,7 +2,7 @@
 title: Extrusor flojo
 description: Guía para apretar el extrusor
 published: true
-date: 2025-12-14T15:50:02.826Z
+date: 2025-12-14T16:13:50.959Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-14T15:50:02.826Z
@@ -10,7 +10,7 @@ dateCreated: 2025-12-14T15:50:02.826Z
 
 # Problema
 
-El extrusor se afloja, lo que provoca que baile sobre la guía lineal. Si el extrusor tiene juego sobre la guía lineal podemos encontrarnos:
+El extrusor se afloja, lo que provoca que baile sobre la guía lineal.
 
 <center>
   <video width="640" height="360" autoplay loop muted>
@@ -19,14 +19,18 @@ El extrusor se afloja, lo que provoca que baile sobre la guía lineal. Si el ext
   </video>
 </center>
 
-<table>
+Si el extrusor tiene juego sobre la guía lineal podemos encontrarnos:
+
+<table width="100%">
 <tr>
   <th>Problema</th>
   <th>Ejemplo</th>
 </tr>
 <tr>
   <td>
-  - **Vibraciones y marcas en la impresión**. El juego puede traducirse en defectos superficiales, como líneas o bandas debido a vibraciones y movimientos imprecisos[^1].
+    
+- **Vibraciones y marcas en la impresión:** El juego puede traducirse en defectos superficiales, como líneas o bandas debido a vibraciones y movimientos imprecisos[^1].
+    
   </td>
   <td>
 
@@ -36,7 +40,9 @@ El extrusor se afloja, lo que provoca que baile sobre la guía lineal. Si el ext
 </tr>
 <tr>
   <td>
+
   - **Desplazamientos pequeños y capas irregulares**. Aunque el firmware y el slicer estén bien, el cabezal puede moverse ligeramente fuera de posición durante los movimientos rápidos, lo que provocará imprecisiones en dimensiones y bordes.[^2].
+
   </td>
   <td>
 
@@ -46,7 +52,9 @@ El extrusor se afloja, lo que provoca que baile sobre la guía lineal. Si el ext
 </tr>
 <tr>
   <td>
+
   - **Pérdida de precisión en movimientos combinados**. En impresoras CoreXY, movimientos diagonales y combinados dependen mucho de que el carruaje esté rígido. Un poco de “juego” puede traducirse en líneas curvas o artefactos.[^3].
+
   </td>
   <td>
 
@@ -61,7 +69,7 @@ El extrusor se afloja, lo que provoca que baile sobre la guía lineal. Si el ext
 
 ## Útiles necesarios
 
-<table>
+<table width="100%">
 <tr>
   <th>Pieza</th>
   <th>Imagen</th>
@@ -156,7 +164,7 @@ Debemos sacar el filamento antes de comenzar y desconectar la máquina de la cor
   
 ### Extracción del extrusor
 
-<table>
+<table width="100%">
 <tr>
   <th>Paso</th>
   <th>Imagen (Click para ver expandida)</th>
@@ -261,7 +269,7 @@ Debemos sacar el filamento antes de comenzar y desconectar la máquina de la cor
 
 ### Ajuste del carro
 
-<table>
+<table width="100%">
 <tr>
   <th>Paso</th>
   <th>Imagen (Click para ver expandida)</th>
@@ -269,7 +277,7 @@ Debemos sacar el filamento antes de comenzar y desconectar la máquina de la cor
 <tr>
   <td>
 
-6. Quitamos los tornillos hexagonales M3*10 de cabeza plana con una llave H2.
+1. Quitamos los tornillos hexagonales M3*10 de cabeza plana con una llave H2.
 
   </td>
   <td>
@@ -318,7 +326,7 @@ Debemos sacar el filamento antes de comenzar y desconectar la máquina de la cor
 
 ### Colocación del extrusor
 
-<table>
+<table width="100%">
 <tr>
   <th>Paso</th>
   <th>Imagen (Click para ver expandida)</th>
