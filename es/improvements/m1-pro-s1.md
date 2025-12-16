@@ -2,7 +2,7 @@
 title: Actualización M1 PRO S1
 description: Información sobre la actualización M1 PRO S1
 published: true
-date: 2025-12-16T18:18:43.300Z
+date: 2025-12-16T18:19:49.232Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-16T18:18:43.300Z
@@ -26,8 +26,8 @@ En respuesta a estos problemas, finalmente Artillery publico otro [anuncio ofici
 
 
 [^1]: https://www.reddit.com/r/Artillery3D/comments/1n0r8gh/help_with_m1_pro_clog_please/
-[^2]: https://www.3ddrucklife.de/post/stromschlagrisiko-artillery-m1-pro
-[^3]: https://www.reddit.com/r/Artillery3D/comments/1mupu9z/artillery_m1_pro_bed_level_issues/
+[^2]: https://www.reddit.com/r/Artillery3D/comments/1mupu9z/artillery_m1_pro_bed_level_issues/
+[^3]: https://www.3ddrucklife.de/post/stromschlagrisiko-artillery-m1-pro
 [^4]: https://web.archive.org/web/20251216142004/https://www.artillery3d.com/pages/official-announcement
 [^5]: http://archive.today/03W2D
 [^6]: https://web.archive.org/web/20251216181551/https://www.artillery3d.com/blogs/news/latest-announcement-regarding-the-m1-pro
