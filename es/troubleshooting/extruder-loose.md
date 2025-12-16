@@ -2,13 +2,13 @@
 title: Extrusor flojo
 description: Guía para apretar el extrusor
 published: true
-date: 2025-12-14T16:13:50.959Z
+date: 2025-12-16T07:11:40.970Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-14T15:50:02.826Z
 ---
 
-# Problema
+## Problema
 
 El extrusor se afloja, lo que provoca que baile sobre la guía lineal.
 
@@ -65,9 +65,7 @@ Si el extrusor tiene juego sobre la guía lineal podemos encontrarnos:
 </table>
 
 
-# Solución
-
-## Útiles necesarios
+# Útiles necesarios
 
 <table width="100%">
 <tr>
@@ -150,19 +148,19 @@ Si el extrusor tiene juego sobre la guía lineal podemos encontrarnos:
 </tr>
 </table>
 
-## Video Guía
+# Video Guía
 
 
 https://odysee.com/$/embed/@ArtilleryM1ProCommunity:6/extruder_loose_fix:0
 
-## Guía
+# Guía
 
 
-### Pasos previos
+## Pasos previos
 
 Debemos sacar el filamento antes de comenzar y desconectar la máquina de la corriente.
   
-### Extracción del extrusor
+## Extracción del extrusor
 
 <table width="100%">
 <tr>
@@ -267,7 +265,7 @@ Debemos sacar el filamento antes de comenzar y desconectar la máquina de la cor
 </tr>
 </table>
 
-### Ajuste del carro
+## Ajuste del carro
 
 <table width="100%">
 <tr>
@@ -324,7 +322,7 @@ Debemos sacar el filamento antes de comenzar y desconectar la máquina de la cor
 </tr>
 </table>
 
-### Colocación del extrusor
+## Colocación del extrusor
 
 <table width="100%">
 <tr>
