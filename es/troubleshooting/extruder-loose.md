@@ -2,13 +2,13 @@
 title: Extrusor flojo
 description: Guía para apretar el extrusor
 published: true
-date: 2025-12-16T12:05:31.891Z
+date: 2025-12-16T12:07:04.453Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-14T15:50:02.826Z
 ---
 
-## Problema
+# Problema
 
 El extrusor se afloja, lo que provoca que baile sobre la guía lineal.
 
@@ -19,6 +19,7 @@ El extrusor se afloja, lo que provoca que baile sobre la guía lineal.
   </video>
 </center>
 
+## Consecuencias
 Si el extrusor tiene juego sobre la guía lineal podemos encontrarnos:
 
 <table width="100%">
