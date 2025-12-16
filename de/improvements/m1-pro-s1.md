@@ -1,6 +1,6 @@
 ---
 title: M1 PRO S1 Upgrade
-description: Information about the M1 PRO S1 upgrade
+description: Informationen zum M1 PRO S1 Upgrade
 published: true
 date: 2025-12-16T18:26:12.050Z
 tags: 
@@ -8,21 +8,21 @@ editor: markdown
 dateCreated: 2025-12-16T18:26:12.050Z
 ---
 
-# History
+# Geschichte
 
-Since its release to the market, the Artillery M1 Pro has had a series of hardware design issues.
+Seit seiner Markteinführung hatte der Artillery M1 Pro eine Reihe von Hardware-Designproblemen.
 
-- Clogging problems due to the poor angle of the PTFE tube, the extruder inlet, and the pressure applied to the filament.[^1]
-- Heated bed issues: poor leveling[^2], electrical leaks[^3].
-  - Artillery published an [official announcement](https://www.artillery3d.com/pages/official-announcement)[^4][^5] regarding this issue, stating that it only occurred in some units from the first production batch.
-- Problems with the chamber temperature sensor, which reported temperatures far from the real values (around 10 degrees lower).
+- Verstopfungsprobleme aufgrund des schlechten Winkels des PTFE-Schlauchs, des Extrudereinlasses und des auf das Filament ausgeübten Drucks.[^1]
+- Probleme mit dem beheizten Bett: schlechte Nivellierung[^2], elektrische Lecks[^3].
+  - Artillery veröffentlichte eine [offizielle Mitteilung](https://www.artillery3d.com/pages/official-announcement)[^4][^5] zu diesem Problem und erklärte, dass es nur bei einigen Geräten der ersten Produktionscharge auftrat.
+- Probleme mit dem Temperatursensor der Kammer, der Temperaturen weit unter den tatsächlichen Werten meldete (etwa 10 Grad niedriger).
 
-# Artillery announcement
+# Artillery-Ankündigung
 
-In response to these issues, Artillery finally published another [official announcement](https://www.artillery3d.com/blogs/news/latest-announcement-regarding-the-m1-pro)[^6][^7] on November 28, 2025, announcing a free M1 PRO S1 upgrade kit for all Artillery M1 Pro owners **–unless it is second-hand–.** There is no information about the deadline to request the upgrade kit.
+Als Reaktion auf diese Probleme veröffentlichte Artillery schließlich am 28. November 2025 eine weitere [offizielle Mitteilung](https://www.artillery3d.com/blogs/news/latest-announcement-regarding-the-m1-pro)[^6][^7] und kündigte ein kostenloses M1 PRO S1 Upgrade-Kit für alle Artillery M1 Pro Besitzer an **–außer bei Gebrauchtgeräten–.** Es gibt keine Informationen über die Frist zur Anforderung des Upgrade-Kits.
 
-- [Form to request the free kit](https://www.artillery3d.com/pages/m1-upgrade)
-- [The kit can also be purchased](https://www.artillery3d.com/pages/upgrade-list)
+- [Formular zur Anforderung des kostenlosen Kits](https://www.artillery3d.com/pages/m1-upgrade)
+- [Das Kit kann auch gekauft werden](https://www.artillery3d.com/pages/upgrade-list)
 
 
 [^1]: https://www.reddit.com/r/Artillery3D/comments/1n0r8gh/help_with_m1_pro_clog_please/
