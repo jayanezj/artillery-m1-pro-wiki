@@ -2,7 +2,7 @@
 title: M1PRO S1 - Extrusor Optimizado
 description: Guía de instalación del extrusor optimizado para M1 PRO S1
 published: true
-date: 2025-12-16T16:25:20.814Z
+date: 2025-12-16T16:26:35.455Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-16T16:25:20.814Z
@@ -328,7 +328,7 @@ Debemos sacar el filamento antes de comenzar y desconectar la máquina de la cor
 </tr>
 </table>
 
-## Desemsamblado de la carcasa del extrusor
+## Desensamblado de la carcasa del extrusor
 
 <table width="100%">
 <tr>
