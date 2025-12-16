@@ -2,7 +2,7 @@
 title: Extrusor flojo
 description: Guía para apretar el extrusor
 published: true
-date: 2025-12-16T07:11:40.970Z
+date: 2025-12-16T11:49:17.724Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-14T15:50:02.826Z
@@ -89,9 +89,13 @@ Si el extrusor tiene juego sobre la guía lineal podemos encontrarnos:
 <tr>
   <td>
 
-- **Fijatornillos:** El líquido fijatornillos impedirá que los tornillos vuelvan a aflojarse con facilidad. **Puedes utilizar cualquiera para este propósito siempre que pueda resistir las temperaturas que se pueden llegar a alcanzar dentro de la impresora, cercanas a 70 grados**.
-  - [Fijatornillos Weiconlock en Amazon.](https://www.amazon.es/Weicon-30243110/dp/B004Z0MEMI)
-  - [Fijatornillos LOOLIFL en Aliexpress.](https://es.aliexpress.com/item/1005009045272509.html)
+- **Fijatornillos:** El líquido fijatornillos impedirá que los tornillos vuelvan a aflojarse con facilidad. **Puedes utilizar cualquiera para este propósito siempre que pueda resistir las temperaturas que se pueden llegar a alcanzar dentro de la impresora**. También tienes que tener en cuenta que el tiempo de secado final de estos productos suele superar la hora, espera a que seque antes de volver a utilizar la impresora para asegurar una buena fijación.
+  - **Weiconlock AN 302-43**: pertenece a la línea de adhesivos anaeróbicos WEICONLOCK, conocida por su fiabilidad en aplicaciones industriales de fijación y sellado. Este fijatornillos de fuerza media y mayor viscosidad evita que los tornillos se aflojen por vibraciones y permite desmontaje con herramientas normales. Su resistencia térmica, con temperaturas de ‑60 °C a +200 °C, lo hace adecuado para impresoras 3D.
+    - [Amazon 🇪🇸](https://www.amazon.es/dp/B004Z0MEMI) - [Amazon 🇩🇪](https://www.amazon.de/dp/B004Z0MEMI) - [Amazon 🇫🇷](https://www.amazon.fr/dp/B004Z0MEMI) - [Amazon 🇮🇹](https://www.amazon.it/dp/B004Z0MEMI) - [Amazon 🇬🇧](https://www.amazon.co.uk/dp/B004Z0MEMI) - [Amazon 🇺🇸](https://www.amazon.com/dp/B004Z0MEMI)
+  - **Henkel Loctite 243**: De la reconocida marca LOCTITE (Henkel), es un fijador de roscas de fuerza media diseñado para evitar que tornillos y tuercas se aflojen por vibraciones, incluso sobre superficies ligeramente aceitosas como acero inoxidable o aluminio. Su curado anaeróbico permite uniones seguras pero desmontables con herramientas normales, y soporta temperaturas de ‑55 °C a +180 °C, lo que lo hace adecuado para impresoras 3D. La reputación de LOCTITE en adhesivos industriales garantiza una fijación duradera y predecible frente a vibraciones y cambios térmicos.
+    - [Amazon 🇪🇸](http://amazon.es/dp/B017L9LGBY) - [Amazon 🇩🇪](https://www.amazon.de/dp/B00B23VAZI) - [Amazon 🇫🇷](http://amazon.fr/dp/B017L9LHLI) - [Amazon 🇮🇹](https://www.amazon.it/dp/B017L9LHLI) - [Amazon 🇬🇧](https://www.amazon.co.uk/dp/B071RCNVFJ) - [Amazon 🇺🇸](https://www.amazon.com/dp/B009I2UC3Q)
+  - **LOOLIFL 243**: Adhesivo fijador de roscas anaeróbico de resistencia media diseñado para evitar que tornillos y tuercas se aflojen por vibraciones o choque mecánico y al mismo tiempo sellar la unión. A diferencia de marcas industriales consolidadas, LOOLIFL suele ser un producto genérico/sin marca fuerte que se encuentra a muy bajo precio, con formulación básica similar a otros fijadores 243, pero con calidad y consistencia que pueden variar según el lote y proveedor, y sin el mismo respaldo técnico o certificaciones que productos de fabricantes reconocidos.
+    - [Aliexpress 🇪🇸](https://es.aliexpress.com/item/1005009045272509.html) - [Aliexpress 🇩🇪](https://de.aliexpress.com/item/1005009045272509.html) - [Aliexpress 🇫🇷](https://fr.aliexpress.com/item/1005009045272509.html) - [Aliexpress 🇮🇹](https://it.aliexpress.com/item/1005009045272509.html) - [Aliexpress 🇬🇧](https://www.aliexpress.com/item/1005009045272509.html) - [Aliexpress 🇺🇸](https://www.aliexpress.us/item/3256808858957757.html)
 
   </td>
   <td>
@@ -104,8 +108,19 @@ Si el extrusor tiene juego sobre la guía lineal podemos encontrarnos:
   <td>
 
 - **Pinzas/Alicates:** Esta herramienta nos permite coger los tornillos del carro fácilmente y aplicarles el fijatornillos.
-  - [Alicates en Aliexpress.](https://es.aliexpress.com/item/1005009648884992.html)
-  - [Juego de pinzas de precisión en Aliexpress.](https://es.aliexpress.com/item/1005009930790317.html)
+  - **XURON 170-II**: De la reconocida marca estadounidense Xuron, es un alicate de corte de precisión tipo flush cutter diseñado para cortar filamento y restos plásticos de impresoras 3D con cortes limpios y sin rebabas. Fabricado en acero de alta calidad con mango ergonómico y muelle de retorno, ofrece durabilidad y control superiores a los alicates genéricos, siendo ideal para trabajos de detalle en impresión 3D y modelismo.
+    - [Amazon 🇪🇸](https://www.amazon.es/dp/B002N1OXKC) - [Amazon 🇩🇪](http://amazon.de/dp/B002N1OXKC) - [Amazon 🇫🇷](http://amazon.fr/dp/B002N1OXKC) - [Amazon 🇮🇹](https://www.amazon.it/dp/B002N1OXKC) - [Amazon 🇬🇧](https://www.amazon.co.uk/dp/B002N1OXKC) - [Amazon 🇺🇸](https://www.amazon.com/dp/B000IBSFAI)
+
+  - **iViTC 170**: Es un alicate/cortador lateral tipo “Model 170” (similar a los flush cutters) que se vende mucho en sitios como AliExpress y está diseñado para cortar cables, filamento plástico o pequeñas piezas con un corte limpio y preciso gracias a su hoja afilada. Aunque no tiene el respaldo de una marca técnica conocida como Xuron o Hakko, es una herramienta económica y funcional para tareas en impresoras 3D y comparte la forma y función de los cutters de tipo 170 que se usan habitualmente.
+    - [Aliexpress 🇪🇸](https://es.aliexpress.com/item/1005009648884992.html) - [Aliexpress 🇩🇪](https://de.aliexpress.com/item/1005009648884992.html) - [Aliexpress 🇫🇷](https://fr.aliexpress.com/item/1005009648884992.html) - [Aliexpress 🇮🇹](https://it.aliexpress.com/item/1005009648884992.html) - [Aliexpress 🇬🇧](https://www.aliexpress.com/item/1005009648884992.html) - [Aliexpress 🇺🇸](https://www.aliexpress.us/item/1005009648884992.html)
+  - **iFixit Precision Tweezers Set**: Es un juego de pinzas de precisión de la reconocida marca iFixit, especializada en herramientas para reparación y mantenimiento de electrónica y dispositivos delicados. Fabricadas en acero inoxidable de alta calidad, las pinzas ofrecen punta fina y agarre preciso, ideales para manipular filamento, retirar restos de soporte o ajustar piezas pequeñas en impresoras 3D. Su durabilidad y acabado profesional las hacen mucho más fiables que pinzas genéricas, convirtiéndolas en una herramienta esencial para trabajos de detalle en impresión 3D y modelismo.
+
+    - [IFixit 🇪🇺](https://www.ifixit.com/en-eu/products/precision-tweezers-set) - [IFixit 🇩🇪](https://www.ifixit.com/de-de/products/precision-tweezers-set) - [IFixit 🇫🇷](https://www.ifixit.com/fr-fr/products/precision-tweezers-set) - [IFixit 🇮🇹](https://www.ifixit.com/it-it/products/precision-tweezers-set) - [IFixit 🇬🇧](https://www.ifixit.com/en-gb/products/precision-tweezers-set) - [IFixit 🇺🇸](https://www.ifixit.com/products/precision-tweezers-set)
+    - [Amazon 🇪🇸](https://www.amazon.es/dp/B079K874CQ) - [Amazon 🇩🇪](http://amazon.de/dp/B079K874CQ) - [Amazon 🇫🇷](http://amazon.fr/dp/B079K874CQ) - [Amazon 🇮🇹](https://www.amazon.it/dp/B079K874CQ) - [Amazon 🇬🇧](https://www.amazon.co.uk/dp/B079K874CQ) - [Amazon 🇺🇸](https://www.amazon.com/dp/B079K874CQ)
+
+
+  - **Precision ESD anti-static tweezers set**: Es un kit genérico de pinzas de precisión antiestáticas en acero inoxidable. Las herramientas del set son de acero inoxidable con acabado anti‑estático/ESD y no magnético, lo que ayuda a reducir el riesgo de descargas electrostáticas cuando se manipulan componentes sensibles, aunque al ser genéricas no hay certificaciones oficiales claras ni marca reconocida detrás.
+    - [Aliexpress 🇪🇸](https://es.aliexpress.com/item/1005009930790317.html) - [Aliexpress 🇩🇪](https://de.aliexpress.com/item/1005009930790317.html) - [Aliexpress 🇫🇷](https://fr.aliexpress.com/item/1005009930790317.html) - [Aliexpress 🇮🇹](https://it.aliexpress.com/item/1005009930790317.html) - [Aliexpress 🇬🇧](https://www.aliexpress.com/item/1005009930790317.html) - [Aliexpress 🇺🇸](https://www.aliexpress.us/item/3256809744475565.html)
 
   </td>
   <td>
@@ -119,9 +134,14 @@ Si el extrusor tiene juego sobre la guía lineal podemos encontrarnos:
 
 - **Llave hexagonal H2.0:** Alrededor de la mitad de los tornillos utilizan este cabezal.
   - La impresora trae consigo una llave H2.0.
-  - [Juego de llaves Wera en Amazon.](https://www.amazon.es/dp/B009ODV0OE)
-  - [Juego de llaves Wera en Aliexpress.](https://es.aliexpress.com/item/1005008153293657.html)
-  - [Juego de llaves barato en Aliexpress.](https://es.aliexpress.com/item/1005009357733341.html)
+  - **Wera 05073593001**: Es un juego de 9 llaves hexagonales métricas en forma de L de la marca alemana Wera, reconocida por producir herramientas manuales de alta calidad para profesionales y aficionados exigentes. Este set utiliza la tecnología Hex‑Plus, que aumenta la superficie de contacto con los tornillos para reducir el desgaste y facilitar la aplicación de par sin dañar las cabezas, y cuenta con mangos codificados por color y tratamiento BlackLaser para una cómoda identificación y gran resistencia a la corrosión. Este tipo de llaves es ideal para montar y ajustar componentes como extrusores, marcos o piezas impresas con tornillos hexagonales, ofreciendo más precisión y durabilidad que llaves allen genéricas, lo que mejora la experiencia de mantenimiento y ajuste de la impresora.
+    - [Amazon 🇪🇸](https://www.amazon.es/dp/B009ODV0OE) - [Amazon 🇩🇪](https://www.amazon.de/dp/B009ODV0OE) - [Amazon 🇫🇷](https://www.amazon.fr/dp/B009ODV0OE) - [Amazon 🇮🇹](https://www.amazon.it/dp/B009ODV0OE) - [Amazon 🇬🇧](https://www.amazon.co.uk/dp/B009ODV0OE) - [Amazon 🇺🇸](https://www.amazon.com/dp/B009ODV0OE)
+    - [Aliexpress 🇪🇸](https://es.aliexpress.com/item/1005008153293657.html) - [Aliexpress 🇫🇷](https://fr.aliexpress.com/item/1005008153293657.html) - [Aliexpress 🇮🇹](https://it.aliexpress.com/item/1005008153293657.html)
+    - [Aliexpress 🇬🇧](https://www.aliexpress.com/item/1005008153293657.html) - [Aliexpress 🇺🇸](https://www.aliexpress.us/item/3256807966978905.html)
+    
+  - **RIDERACE set 9 piezas**: es un juego de llaves hexagonales tipo L de la marca Riderace, un fabricante que suele aparecer en herramientas económicas para bicicletas y reparaciones básicas, generalmente con acero CR‑V o S2 y acabados coloreados para facilitar la identificación de tamaños. Aunque Riderace no tiene la misma reputación o respaldo técnico que marcas especializadas de herramientas como Wera o Park Tool, muchos usuarios encuentran estas llaves funcionales y suficientes para tareas de mantenimiento, ofreciendo versatilidad y portabilidad a bajo coste.
+    - [Aliexpress 🇪🇸](https://es.aliexpress.com/item/1005008298259316.html) - [Aliexpress 🇩🇪](https://de.aliexpress.com/item/1005008298259316.html) - [Aliexpress 🇫🇷](https://fr.aliexpress.com/item/1005008298259316.html) - [Aliexpress 🇮🇹](https://it.aliexpress.com/item/1005008298259316.html)
+    - [Aliexpress 🇬🇧](https://www.aliexpress.com/item/1005008298259316.html) - [Aliexpress 🇺🇸](https://www.aliexpress.us/item/3256808111944564.html)
 
   </td>
   <td>
@@ -134,10 +154,13 @@ Si el extrusor tiene juego sobre la guía lineal podemos encontrarnos:
   <td>
 
 - **Llave hexagonal H1.5:** Alrededor de la mitad de los tornillos utilizan este cabezal.
-  - La impresora trae consigo una llave H2.0.
-  - [Juego de llaves Wera en Amazon.](https://www.amazon.es/dp/B009ODV0OE)
-  - [Juego de llaves Wera en Aliexpress.](https://es.aliexpress.com/item/1005008153293657.html)
-  - [Juego de llaves barato en Aliexpress.](https://es.aliexpress.com/item/1005009357733341.html)
+  - La impresora trae consigo una llave H1.5.
+  - **Wera 05073593001**: Es un juego de 9 llaves hexagonales métricas en forma de L de la marca alemana Wera, reconocida por producir herramientas manuales de alta calidad para profesionales y aficionados exigentes. Este set utiliza la tecnología Hex‑Plus, que aumenta la superficie de contacto con los tornillos para reducir el desgaste y facilitar la aplicación de par sin dañar las cabezas, y cuenta con mangos codificados por color y tratamiento BlackLaser para una cómoda identificación y gran resistencia a la corrosión. Este tipo de llaves es ideal para montar y ajustar componentes como extrusores, marcos o piezas impresas con tornillos hexagonales, ofreciendo más precisión y durabilidad que llaves allen genéricas, lo que mejora la experiencia de mantenimiento y ajuste de la impresora.
+    - [Amazon 🇪🇸](https://www.amazon.es/dp/B009ODV0OE) - [Amazon 🇩🇪](https://www.amazon.de/dp/B009ODV0OE) - [Amazon 🇫🇷](https://www.amazon.fr/dp/B009ODV0OE) - [Amazon 🇮🇹](https://www.amazon.it/dp/B009ODV0OE) - [Amazon 🇬🇧](https://www.amazon.co.uk/dp/B009ODV0OE) - [Amazon 🇺🇸](https://www.amazon.com/dp/B009ODV0OE)
+    - [Aliexpress 🇪🇸](https://es.aliexpress.com/item/1005008153293657.html) - [Aliexpress 🇫🇷](https://fr.aliexpress.com/item/1005008153293657.html) - [Aliexpress 🇮🇹](https://it.aliexpress.com/item/1005008153293657.html) - [Aliexpress 🇬🇧](https://www.aliexpress.com/item/1005008153293657.html) - [Aliexpress 🇺🇸](https://www.aliexpress.us/item/3256807966978905.html)
+    
+  - **RIDERACE set 9 piezas**: es un juego de llaves hexagonales tipo L de la marca Riderace, un fabricante que suele aparecer en herramientas económicas para bicicletas y reparaciones básicas, generalmente con acero CR‑V o S2 y acabados coloreados para facilitar la identificación de tamaños. Aunque Riderace no tiene la misma reputación o respaldo técnico que marcas especializadas de herramientas como Wera o Park Tool, muchos usuarios encuentran estas llaves funcionales y suficientes para tareas de mantenimiento, ofreciendo versatilidad y portabilidad a bajo coste.
+    - [Aliexpress 🇪🇸](https://es.aliexpress.com/item/1005008298259316.html) - [Aliexpress 🇩🇪](https://de.aliexpress.com/item/1005008298259316.html) - [Aliexpress 🇫🇷](https://fr.aliexpress.com/item/1005008298259316.html) - [Aliexpress 🇮🇹](https://it.aliexpress.com/item/1005008298259316.html) - [Aliexpress 🇬🇧](https://www.aliexpress.com/item/1005008298259316.html) - [Aliexpress 🇺🇸](https://www.aliexpress.us/item/3256808111944564.html)
 
   </td>
   <td>
